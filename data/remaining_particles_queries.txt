@@ -1,0 +1,2 @@
+index query filename
+18 "SELECT x, y, z, vx, vy, vz, particleId FROM MDR1.Particles85 WHERE x >= 0.0000 AND x <= 125.00 AND y > 250.00 AND y <= 375.00 AND z > 125.00 AND z <= 250.00" subvol_0_2_1.csv
